@@ -1,0 +1,19 @@
+{
+  "name": "romimate",
+  "version": "1.0.0",
+  "description": "An API for language interest and chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RupeshThakur11/lang-chat.git"
+  },
+  "author": "Rupesh Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupeshThakur11/lang-chat/issues"
+  },
+  "homepage": "https://github.com/RupeshThakur11/lang-chat#readme"
+}
